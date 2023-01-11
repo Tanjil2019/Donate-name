@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Mukta&family=Prompt:wght@300&family=Roboto+Slab:wght@300&family=Roboto:wght@300&family=Sofia+Sans&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.head{
+   
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    max-height: auto;
+  
+}
+
+.h2-let{
+    text-align: center;
+    padding-top: 280px;
+    font-size: 3rem;
+    color: rgb(251, 253, 252);
+    text-shadow: 60px 14px 30px rgba(7, 7, 7, 0.712);
+    font-weight: bolder;
+}
+p{
+    font-weight: 900;
+    text-align: center;
+    font-size: 1.2rem;
+    padding: 50px;
+    color: white;
+}
+.btn{
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.donate-btn{
+    padding:15px 26px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(236, 92, 66);
+    color: white;
+}
+
+/* main Styles */
+
+
+.donate-today{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.today-h2{
+    font-size: 2.6rem;
+    text-align: center;
+    margin-top: 150px;
+}
+.amount{
+    display: flex;
+    justify-content: center;
+}
+ h3{
+    margin:10px 30px;
+    padding: 10px 30px;
+    font-size: 1.5rem;
+} 
+.h3-300{
+ border: 2px solid rgb(236, 92, 66);
+ color: rgb(236, 92, 66);
+ font-size: 1.5rem;
+ padding: 10px 30px;
+}

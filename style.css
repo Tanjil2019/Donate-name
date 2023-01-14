@@ -21,18 +21,18 @@
     text-shadow: 60px 14px 30px rgba(7, 7, 7, 0.712);
     font-weight: bolder;
 }
-p{
-    font-weight: 900;
-    text-align: center;
-    font-size: 1.2rem;
-    padding: 50px;
-    color: white;
-}
+
 .btn{
     text-align: center;
     padding-bottom: 100px;
 }
-
+.top-text{
+    color: white;
+    font-size: 17px;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 30px;
+}
 .donate-btn{
     padding:15px 26px;
     font-size: 1.2rem;
@@ -69,3 +69,157 @@ p{
  font-size: 1.5rem;
  padding: 10px 30px;
 }
+
+.taka-text{
+    padding: 30px;
+    font-size: 17px;
+}
+
+.plan-donate{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.donate-col{
+display: flex;
+}
+
+.our{
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 40px 0;
+}
+
+.text-p-our{
+    max-width: 700px;
+    margin: 0 auto;
+}
+.first, .second, .third{
+    background-color: rgb(204, 228, 228);
+    margin: 20px;
+    padding: 20px;
+   
+}
+li{
+    list-style: none;
+}
+.fa-download, .fa-twitter{
+  font-size: 2.5rem;
+  color: rgb(1, 8, 19);
+}
+
+.text-our{
+   text-align: left;
+   margin-left: -30px;
+}
+p{
+    text-align: center;
+}
+
+.today-text{
+    color: rgb(10, 10, 10);
+    font-size: 17px;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.text-p-our{
+    color: rgb(10, 10, 10);
+    font-size: 17px;
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.text-col{
+    font-size: 17px;
+    text-align: left;
+    padding: 10px 0;
+}
+
+/* DOnations  styles*/
+.section2{
+    max-width: 1430px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.donation{
+    display: flex;
+    margin: 50px;
+}
+
+.text-donation{
+    max-width: 500px;
+    margin: 0 auto;
+}
+.picture-cotribute{
+    max-width: 500px;
+    margin: 0 auto;
+}
+img{
+    height: 400px;
+    width: 500px;
+}
+.text-they{
+    text-align: left;
+    font-size: 2.5rem;
+    font-weight: bolder;
+}
+.p-they{
+    text-align: left;
+    font-size: 17px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+/* updates */
+.updates{
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.my-text{
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 40px 0;
+    font-weight: bold;
+}
+.my-p{
+    text-align: left;
+    font-size: 17px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+.email{
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgb(219, 214, 207);
+    padding: 40px;
+}
+input{
+    padding:18px 30px;
+    border: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+.subscribe{
+  border:none;
+  background-color: rgb(236, 92, 66);
+  padding: 20px 30px;
+}
+/* footer */
+ footer{
+    background-color: rgb(41, 37, 37);
+    height: 200px;
+ }
+ .be{
+    text-align: center;
+    font-size: 2.5rem;
+    color: tomato;
+    padding: 60px;
+ }
+ .i{
+    text-align: center;
+    font-size: 1.6rem;
+    color: white;
+ }
